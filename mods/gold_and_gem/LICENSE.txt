@@ -1,0 +1,44 @@
+code mostly "borrowed" from homedecor-modpack, default, colored woods and bobblocks mod,
+
+all code lgpl
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU Lesser General Public License as published by
+the Free Software Foundation; either version 2.1 of the License, or
+(at your option) any later version.
+http://www.gnu.org/licenses/lgpl-2.1.html
+
+textures partly WTFPL (from homedecor-modpack), gold and mithril bordered blocks are CC BY-SA 3.0, 
+usage of default goldblock texture, by Zeg9 and usage of mithril block, by calinou (both are CC BY-SA 3.0)
+
+marble-pillar and gem_lamp: models and textures selfmade (WTFPL)
+used technic-marble texture (WTFPL)
+
+colored mese blocks (CC BY-SA 3.0), nyancat-item textures(WTFPL) and rainbow dye texture(CC BY-SA 3.0) are variations of their original textures.
+the original nyan cat/rainbow texture is (WTFPL, VanessaE), the dye texture is CC BY-SA 3.0
+
+regular quartz, silver and gold texture from homedecor (WTFPL)
+
+marble checker block textures using technic marble texture and technic granite texture (WTFPL),
+	using gold / diamond block texture (CC BY-SA 3.0), gold block from Zeg9, diamond block from blockMen
+	mithril, kalite and arol checker texture using edited version of gold block (CC BY-SA 3.0)
+
+gold /gold-mithril / silver-mithril fence textures selfmade (WTFPL)
+
+mese crystal block texture  made from diamond block texture (CC BY-SA 3.0)
+
+
+
+
+Bobblocks textures and sounds
+# [ATTRIBUTION]
+# Unless otherwise noted, all graphics & sounds
+# created by Rabbi Bob
+# Licensed under the GPLv2/later
+
+
+# [SOUNDS]
+# bobblocks_glass
+    # Author: Ch0cchi
+    # http://www.freesound.org/people/Ch0cchi/sounds/15285/
+    # Edited by rabbibob

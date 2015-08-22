@@ -1,0 +1,13 @@
+-- Global configuration variables
+
+-- enable the use of the bobblocks mod
+
+gold_and_gem.enable_bobblocks = true
+
+-- enable colorable meseblocks
+
+gold_and_gem.enable_colorable_meseblocks = true
+
+-- enable nyan cat crafting (colorable meseblocks must be enabled!)
+
+gold_and_gem.enable_nyan_cat_crafting = true
