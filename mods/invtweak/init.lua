@@ -2,7 +2,10 @@ local auto_refill = minetest.setting_getbool("invtweak_auto_refill") or true
 
 local tweak = {}
 tweak.formspec = {}
+local old = 0
 
+
+local new = 0
 tweak.buttons = {
 --sort_asc
 "0.55,0.6;sort_asc;^]".."tooltip[sort_asc;sort Items asc.;#30434C;#FFF]",

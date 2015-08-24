@@ -23,6 +23,8 @@ minetest.register_node("melting:molten_brick", {
 		sounds = default.node_sound_stone_defaults(),
 })
 
+minetest.register_alias("melting:obsidian_brick","default:obsidian_brick")
+
 minetest.register_node("melting:obsidian_brick", {
 	description = "Obsidian Brick",
 	inventory_image = minetest.inventorycube("obsidian_brick.png"),
